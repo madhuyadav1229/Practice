@@ -1,0 +1,27 @@
+footer {
+  background: linear-gradient(145deg, #e2e8ec, #ffffff);
+  box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+    /* margin: 20px 0 2px 0; */
+    /* border: 2px solid black; */
+    width: 100%;
+    border-radius: 10px;
+  }
+  footer p {
+    text-align: center ;
+    vertical-align:text-bottom;
+      
+  }
+  .icon {
+    /* display: flex; */
+     /* border: 2px solid black;  */
+  }
+  .icon .social{
+    margin:5px;
+    height: 60px;
+    width: 60px;
+  }
+  .social:hover{
+  background-color: #699093;
+  }
+  
+ 
